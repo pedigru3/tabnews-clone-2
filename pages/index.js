@@ -1,3 +1,3 @@
 export default function Home(){
-    return <h1>Te amo, sua linda</h1>
+  return <h1>Refúgio universitário</h1>
 }
